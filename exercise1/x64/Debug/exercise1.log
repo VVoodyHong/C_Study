@@ -1,0 +1,3 @@
+﻿  exercise1.c
+C:\Users\82106\source\repos\C_Primer_Plus\exercise1\exercise1.c(7,1): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+  exercise1.vcxproj -> C:\Users\82106\source\repos\C_Primer_Plus\x64\Debug\exercise1.exe
